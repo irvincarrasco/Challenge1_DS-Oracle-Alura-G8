@@ -56,6 +56,10 @@ Ingreso total de Tienda 3 --> 1098019600.0
 
 Ingreso total de Tienda 4 --> 1038375700.0
 
+![image](https://github.com/user-attachments/assets/ae8e719d-b678-4490-9583-c3e1689e0bcc)
+
+![image](https://github.com/user-attachments/assets/a85a38ab-3b14-4869-8652-46b943e696e4)
+
 
 Esto tomando en cuenta
 
@@ -64,6 +68,7 @@ Esto tomando en cuenta
 - Categoría de productos: Aunque no es un diferencial debido a que todas las tiendas tienen el top (5) las mismas categorías.
 - Por producto : Aunque para este análisis se podría realizar un pareto para comprobar si el producto más caro lo vende que tienda debedríamos saber la cantidad. Por lo tanto no es tan diferencial.
 
+![image](https://github.com/user-attachments/assets/3b923db1-90b1-4748-ae21-22faccb713b3)
 
 - Existe una relación fuerte entre mayor precio y mayor costo de envío lo que nos indica que mientras el producto genera más costos de envío ergo puede generar más ganancia.
 - Es la calificación menor la tienda 4 sujeto al ingreso.
